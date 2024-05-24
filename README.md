@@ -57,8 +57,9 @@ To set up the project locally, follow these steps:
 ```sh
  npm run dev
 
- Open your browser and navigate to http://localhost:3000 to see the website in action.
 ```
+
+4.  Open your browser and navigate to http://localhost:3000 to see the website in action.
 
 ## Usage
 
